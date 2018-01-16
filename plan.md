@@ -22,7 +22,7 @@ The game doesn’t end until one of the players loses all their lives. At this p
 - DO: generate addition question with two random numbers (RANGE)
 	- if question is not unique, generate anew
 
-### Turns
+### Game
 - OUTPUT to Current_player new Question
 
 - INPUT Answer > determine result and OUTPUT it to Current_player
