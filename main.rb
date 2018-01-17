@@ -1,3 +1,3 @@
-require './start_game'
+require './Game'
 
-start_game(1, 21)
+game = Game.new()

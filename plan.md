@@ -16,7 +16,7 @@ The game doesn’t end until one of the players loses all their lives. At this p
 - STORE: Player_1 lives (#/3)
 - STORE: Player_2 lives (#/3)
 
-### Questions
+### Question_generator
 - STORE: past questions
 
 - DO: generate addition question with two random numbers (RANGE)
